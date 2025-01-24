@@ -21,7 +21,7 @@ Here are the manuals for the official Simon Air game. Obtained from [ManualsLib]
 ## Menus
 ### Root menu
 ![image](https://github.com/user-attachments/assets/767e3b4a-1d5a-466a-abc6-a08c3e1ce932) \
-\* This is the home menu for the Lexon Air. It is installed to the root menu by default.
+\* This is the main menu for the Lexon Air. It is installed to the root menu by default.
 ### Main menu
 ![image](https://github.com/user-attachments/assets/64f32a39-f51f-460b-b68a-b4aa87861d7d) \
 Buttons 2-4 are contacts on the physical unit, these buttons emulate their actions.
