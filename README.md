@@ -25,6 +25,7 @@ Drag the prefab into your avatar, position the Lexon Air Target object in front 
 # Usage
 Here are the manuals for the official Simon Air game. Obtained from [ManualsLib](https://www.manualslib.com/manual/1846450/Hasbro-Gaming-Simon-Air.html).
 - Two-player is not included in this package.
+- Lighting conditions are not a real threat to this virtual version.
 
 ![image](https://github.com/user-attachments/assets/74804969-bd74-4011-b542-11457c088d12)
 ![image](https://github.com/user-attachments/assets/d0421e76-72c1-4c70-8a2c-64f6f4dab790)
