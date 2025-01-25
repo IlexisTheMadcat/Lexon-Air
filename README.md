@@ -1,5 +1,5 @@
 # Lexon Air Documentation
-Lexon Air is a memory game similar to the Simon game. This device programmed using Unity animation controllers follows the Simon Air rules to provide a similar experience in VRChat. \
+Lexon Air is a memory game knockoff similar to the Simon game. This device programmed using Unity animation controllers follows the Simon Air rules to provide a similar experience in VRChat. \
 This memory game can be purchased here: https://ilexisthemadcat.booth.pm/items/6524622
 
 Community Server: https://discord.gg/ilexissloft \
