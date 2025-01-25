@@ -17,7 +17,8 @@ Contents:
    - [Settings](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#settings)
 
 # Installation
-The setup is simple! There are two easy ways.
+For an easy install, start by installing [Modular Avatar](https://modular-avatar.nadena.dev/docs/intro). You can follow the instructions on that page to install Modular Avatar via the VRChat Creator Companion app. \
+The setup is simple! There are two easy ways. \
 Drag the prefab into your avatar, position the Lexon Air Target object in front of your hand, then:
 - add your hand bone as a source to the target's constraint, then press Activate.
 - move the Lexon Air Target object into your avatar's armature under the respective hand bone.
