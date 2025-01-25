@@ -1,11 +1,20 @@
 # Lexon Air Documentation
 Lexon Air is a memory game similar to the Simon game. This device programmed using Unity animation controllers follows the Simon Air rules to provide a similar experience in VRChat. \
-This memory game can be purchased here: [not yet]
+This memory game can be purchased here: https://ilexisthemadcat.booth.pm/items/6524622
 
 Community Server: https://discord.gg/ilexissloft \
 Please stop by if you have any questions about setup or want to suggest something. Select Lexi's Assets in onboarding and scroll down the channels for #💬lexon-air!
 
 Lexon Air version updates will be announced in the Discord server. Known bugs or planned features will be represented as open issues in this repository.
+
+Contents:
+ - [Installation](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#installation)
+ - [Usage](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#usage)
+   - [Displays](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#displays)
+ - [Menus](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#menus)
+   - [Root Menu](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#root-menu)
+   - [Main Menu](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#main-menu)
+   - [Settings](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#settings)
 
 # Installation
 The setup is simple! There are two easy ways.
@@ -18,6 +27,10 @@ Here are the manuals for the official Simon Air game. Obtained from [ManualsLib]
 
 ![image](https://github.com/user-attachments/assets/74804969-bd74-4011-b542-11457c088d12)
 ![image](https://github.com/user-attachments/assets/d0421e76-72c1-4c70-8a2c-64f6f4dab790)
+## Displays
+The unit displays two numbers on the front. \
+![image](https://github.com/user-attachments/assets/7ff52962-7b6c-4214-a57c-30def6703e60)
+
 ## Menus
 ### Root menu
 ![image](https://github.com/user-attachments/assets/767e3b4a-1d5a-466a-abc6-a08c3e1ce932) \
