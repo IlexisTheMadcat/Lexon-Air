@@ -27,9 +27,9 @@ Minimum parameter usage: 33 \
 Maximum parameter usage: 49 \
 Go into the Lexon Air's MA Parameters component to change the behavior of the [Displays](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#displays) on remote machines. \
 This does not affect the functionality of the game unit.
-- 33 - Unsync `LA/Points` to unsync the point display across the network.
+- 33 - Uncheck Synced on `LA/Points` to stop syncing the point display across the network.
 - 41 - default (points work but not levels)
-- 49 - Sync `LA/Levels` to sync the level display across the network.
+- 49 - Check Synced on `LA/Levels` to sync the level display across the network.
   
 # Usage
 Here are the manuals for the official Simon Air game. Obtained from [ManualsLib](https://www.manualslib.com/manual/1846450/Hasbro-Gaming-Simon-Air.html).
