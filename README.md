@@ -20,15 +20,15 @@ Contents:
    - [Settings](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#settings)
 
 # Installation
-## Modular Avatar
+### Modular Avatar
 For an easy install, start by installing [Modular Avatar](https://modular-avatar.nadena.dev/docs/intro). You can follow the instructions on that page to install Modular Avatar via the VRChat Creator Companion app. \
 The setup is simple! Drag the prefab into your avatar, then position the Lexon Air Target object in front of your right hand.
-## VRCFury
+### VRCFury
 For an easy install, start by installing [VRCFury](https://vrcfury.com/download/). You can follow the instructions on that page to install VRCFury via the VRChat Creator Companion app. \
 The setup is simple! Drag the prefab into your avatar, then position the Lexon Air Target object in front of your right hand.
   
 # Usage
-## How To Play
+### How To Play
 To learn how to play, watch this official video: https://youtu.be/WPKeFiXG9ww \
 Here are the manuals for the official Simon Air game. Obtained from [ManualsLib](https://www.manualslib.com/manual/1846450/Hasbro-Gaming-Simon-Air.html).
 - Two-player is not included in this package.
@@ -36,7 +36,7 @@ Here are the manuals for the official Simon Air game. Obtained from [ManualsLib]
 ![image](https://github.com/user-attachments/assets/74804969-bd74-4011-b542-11457c088d12) \
 ![image](https://github.com/user-attachments/assets/d0421e76-72c1-4c70-8a2c-64f6f4dab790)
 
-## Displays
+### Displays
 The unit displays two numbers on the front. \
 ![image](https://github.com/user-attachments/assets/7ff52962-7b6c-4214-a57c-30def6703e60)
 
