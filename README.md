@@ -26,6 +26,8 @@ The setup is simple! Drag the prefab into your avatar, then position the Lexon A
 ### VRCFury
 For an easy install, start by installing [VRCFury](https://vrcfury.com/download/). You can follow the instructions on that page to install VRCFury via the VRChat Creator Companion app. \
 The setup is simple! Drag the prefab into your avatar, then position the Lexon Air Target object in front of your right hand.
+
+Note: In my testing, VRCFury takes almost 10 times longer to load into build and enter play mode than Modular Avatar does. Both libraries have the same setup procedure for this asset. But if it works for you, then it's all good. 
   
 # Usage
 ### How To Play
