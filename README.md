@@ -1,5 +1,5 @@
 # Lexon Air Documentation
-Lexon Air is a memory game knockoff similar to the Simon game. This device programmed using Unity animation controllers follows the Simon Air rules to provide a similar experience in VRChat. \
+Lexon Air is a memory game knockoff similar to the Simon game. This device programmed using Unity animation controllers follows the Simon Air rules to provide a similar experience in VRChat. It uses 49 bits of synced memory. \
 This memory game can be purchased here: https://ilexisthemadcat.booth.pm/items/6524622 \
 To learn how to play, watch this official video: https://youtu.be/WPKeFiXG9ww
 
@@ -9,36 +9,31 @@ Please stop by if you have any questions about setup or want to suggest somethin
 Lexon Air version updates will be announced in the Discord server. Known bugs or planned features will be represented as open issues in this repository.
 
 Contents:
- - [Installation](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#installation)
- - [Usage](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#usage)
-   - [Displays](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#displays)
- - [Menus](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#menus)
-   - [Root Menu](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#root-menu)
-   - [Main Menu](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#main-menu)
-   - [Settings](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#settings)
+ - [Installation](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#installation)
+   - [Modular Avatar](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#modular-avatar)
+   - [VRCFury](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#vrcfury)
+ - [Usage](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#usage)
+   - [Displays](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#displays)
+ - [Menus](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#menus)
+   - [Root Menu](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#root-menu)
+   - [Main Menu](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#main-menu)
+   - [Settings](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#settings)
 
 # Installation
+## Modular Avatar
 For an easy install, start by installing [Modular Avatar](https://modular-avatar.nadena.dev/docs/intro). You can follow the instructions on that page to install Modular Avatar via the VRChat Creator Companion app. \
-The setup is simple! There are two easy ways. \
-Drag the prefab into your avatar, position the Lexon Air Target object in front of your hand, then:
-- uncheck Is Active in the target's constraint, add your hand bone as a source, then press Activate.
-- move the Lexon Air Target object into your avatar's armature under the respective hand bone.
-
-Minimum parameter usage: 33 \
-Maximum parameter usage: 49 \
-Go into the Lexon Air's MA Parameters component to change the behavior of the [Displays](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#displays) on remote machines. \
-This does not affect the functionality of the game unit.
-- 33 - Uncheck Synced on `LA/Points` to stop syncing the point display across the network.
-- 41 - default (points work but not levels)
-- 49 - Check Synced on `LA/Levels` to sync the level display across the network.
+The setup is simple! Drag the prefab into your avatar, then position the Lexon Air Target object in front of your right hand.
+## VRCFury
+For an easy install, start by installing [VRCFury](https://vrcfury.com/download/). You can follow the instructions on that page to install VRCFury via the VRChat Creator Companion app. \
+The setup is simple! Drag the prefab into your avatar, then position the Lexon Air Target object in front of your right hand.
   
 # Usage
 Here are the manuals for the official Simon Air game. Obtained from [ManualsLib](https://www.manualslib.com/manual/1846450/Hasbro-Gaming-Simon-Air.html).
 - Two-player is not included in this package.
 - Lighting conditions are not a real threat to this virtual version.
-
 ![image](https://github.com/user-attachments/assets/74804969-bd74-4011-b542-11457c088d12)
 ![image](https://github.com/user-attachments/assets/d0421e76-72c1-4c70-8a2c-64f6f4dab790)
+
 ## Displays
 The unit displays two numbers on the front. \
 ![image](https://github.com/user-attachments/assets/7ff52962-7b6c-4214-a57c-30def6703e60)
@@ -65,4 +60,4 @@ Buttons 2-4 are contacts on the physical unit, these buttons emulate their actio
 4) Control the volume of all sounds except for the button ASMR.
 
 # End
-[Return to top](https://github.com/IlexisTheMadcat/Lexon-Air/tree/main?tab=readme-ov-file#lexon-air-documentation)
+[Return to top](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#lexon-air-documentation)
