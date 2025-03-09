@@ -9,8 +9,6 @@ Lexon Air version updates will be announced in the Discord server. Known bugs or
 
 Contents:
  - [Installation](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#installation)
-   - [Modular Avatar](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#modular-avatar)
-   - [VRCFury](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#vrcfury)
  - [Usage](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#usage)
    - [How To Play](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#how-to-play)
    - [Displays](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#displays)
@@ -20,12 +18,8 @@ Contents:
    - [Settings](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#settings)
 
 # Installation
-### Modular Avatar
-For an easy install, start by installing [Modular Avatar](https://modular-avatar.nadena.dev/docs/intro). You can follow the instructions on that page to install Modular Avatar via the VRChat Creator Companion app. \
-The setup is simple! Drag the prefab into your avatar, then position the Lexon Air Target object in front of your right hand.
-### VRCFury
-For an easy install, start by installing [VRCFury](https://vrcfury.com/download/). You can follow the instructions on that page to install VRCFury via the VRChat Creator Companion app. \
-The setup is simple! Drag the prefab into your avatar, then position the Lexon Air Target object in front of your right hand.
+For an easy install, start by installing [Modular Avatar](https://modular-avatar.nadena.dev/docs/intro) OR [VRCFury](https://vrcfury.com/download/). You can follow the instructions on that page to install the library via the VRChat Creator Companion app. \
+The setup is simple! Drag the prefab into your avatar, then position the Lexon Air Target object (expand the prefab to find it) in front of your right hand.
 
 Note: In my testing, VRCFury takes almost 10 times longer to load into build and enter play mode than Modular Avatar does. Both libraries have the same setup procedure for this asset. But if it works for you, then it's all good. 
   
