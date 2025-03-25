@@ -1,6 +1,7 @@
 # Lexon Air Documentation
 Lexon Air is a memory game knockoff similar to the Simon game. This device programmed using Unity animation controllers follows the Simon Air rules to provide a similar experience in VRChat. It uses 49 bits of synced memory. \
-This memory game can be purchased here: https://ilexisthemadcat.booth.pm/items/6524622
+This memory game can be purchased here: https://ilexisthemadcat.booth.pm/items/6524622 \
+Demo video: [[VRChat] Lexon Air Demo](https://youtu.be/SiyZ2OaVfkg)
 
 Community Server: https://discord.gg/ilexissloft \
 Please stop by if you have any questions about setup or want to suggest something. Select Lexi's Assets in onboarding and scroll down the channels for #💬lexon-air!
