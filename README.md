@@ -4,7 +4,7 @@ This memory game can be purchased here: https://ilexisthemadcat.booth.pm/items/6
 Demo video: [[VRChat] Lexon Air Demo](https://youtu.be/SiyZ2OaVfkg)
 
 Community Server: https://discord.gg/ilexissloft \
-Please stop by if you have any questions about setup or want to suggest something. Select Lexi's Assets in onboarding and scroll down the channels for #💬lexon-air!
+Please stop by if you have any questions about setup or want to suggest something. Select Lexi's Assets in onboarding and scroll down the channels for #storefront!
 
 Lexon Air version updates will be announced in the Discord server. Known bugs or planned features will be represented as open issues in this repository.
 
