@@ -13,6 +13,7 @@ Contents:
  - [Installation](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#installation)
  - [Usage](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#usage)
    - [How To Play](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#how-to-play)
+   - [VRChat-specific](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#vrchat-specific)
    - [Displays](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#displays)
  - [Menus](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#menus)
    - [Main Menu](https://github.com/IlexisTheMadcat/Lexon-Air/blob/main/README.md#main-menu)
