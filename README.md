@@ -26,8 +26,8 @@ For an easy install, start by installing [Modular Avatar](https://modular-avatar
 The setup is simple! Drag the prefab into your avatar, then reference the image below for moving it around where it is comfortable. \
 <img width="600" height="221" alt="image" src="https://github.com/user-attachments/assets/7836b5a3-563c-425c-bd02-7d1621172586" />
 
-Note: Due do the size of the ROM in the Animator Controller, VRCFury can take over 15 minutes in pre-processing for the avatar to build or enter play mode. \
-If your avatar uses any VRCFury components elsewhere, this will apply even if you use the Modular Avatar prefab. Just remove it temporarily if you're testing something else. Sorry!
+\*\* IF YOUR AVATAR USES ANY VRCFURY: \*\*
+This asset has a huge ROM with tons of intricate wiring in the animator controller. For some reason, VRCFury is not as optimized as Modular Avatar with controller cloning and editing. You'll be stuck waiting 15 minutes just to build or enter play mode, so just move it off of the avatar if you're testing something else.
   
 # Usage
 ### How To Play
